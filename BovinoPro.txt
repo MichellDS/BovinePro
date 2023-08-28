@@ -1,0 +1,30 @@
+
+Registrar Bovino
+
+Como um produtor de gado leiteiro, desejo registrar a quantidade de leite produzida por um bovino, registrar tambem a as inseminações e monitorar o periodo de gestalção 
+
+Critérios de Aceitação:
+
+Eu, como responsável, posso selecionar o bovino que foi submetido à inseminação.
+Eu, como responsável, posso inserir a data da inseminação.
+Eu, como responsável, posso escolher o tipo de inseminação realizada (inseminação artificial ou natural).
+Posso adicionar observações adicionais, como o touro utilizado ou outras informações relevantes.
+O sistema deve registrar a data, o tipo de inseminação e outras informações associadas ao bovino.
+A informação de inseminação deve ser exibida no histórico reprodutivo do bovino.
+Eu, como produtor, posso inserir a quantidade de leite produzida por esse bovino em um campo numérico.
+Os valores de produção de leite e a média mensal devem ser armazenados no sistema para referência futura.
+
+
+Exemplo:
+
+Eu, o produtor, acesso o sistema através do aplicativo móvel.
+Seleciono o bovino de identificação "B123" no menu suspenso.
+Insiro a quantidade de leite produzida hoje, que é 15 litros, no campo designado.
+Escolho a data de hoje como a data do registro.
+Após salvar, o sistema calcula automaticamente a média mensal de produção para "B123" e a exibe na tela.
+O sistema armazena os dados, então posso ver o histórico de produção do "B123" no futuro.
+e tambem
+Escolhi "Inseminação Artificial" como o tipo de inseminação.
+Adicionei a observação de que o touro "T789" foi usado para a inseminação.
+Depois de salvar, o sistema registrou a data, o tipo de inseminação e a observação para o bovino "B456".
+Ao visualizar o histórico reprodutivo de "B456", vejo a nova entrada com todos os detalhes da inseminação.
