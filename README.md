@@ -6,7 +6,7 @@
 
 
 -
-REQUISITOS FUNCIONAIS
+REQUISITOS FUNCIONAIS;
 RF.001 -  Cadastro no Bovino (Raça, idade,)
 RF.002 -  Registro de Produção de Leite(quantia por dia e media mensal)
 RF.003 -  Registro de Inseminação dos bovinos 
