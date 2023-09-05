@@ -1,4 +1,4 @@
-<h1 align="center">Book Finder</h1>
+<h1 align="center">BovinePro</h1>
 
 
 
