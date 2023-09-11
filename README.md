@@ -5,11 +5,9 @@
 </p>
 
 ## Sobre o projeto
--
--
--
-
-## Inteface
+- [User H](https://github.com/MichellDS/BovinoPro/blob/main/BovinoPro.txt)
+- [Caso de Uso](https://github.com/MichellDS/BovinoPro/blob/main/Caso%20de%20Uso.png)
+- [User H](https://github.com/MichellDS/BovinoPro/blob/main/Requititos.txt)
 
 
 
