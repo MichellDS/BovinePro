@@ -8,7 +8,7 @@
 - [User H](https://github.com/MichellDS/BovinoPro/blob/main/BovinoPro.txt)
 - [Caso de Uso](https://github.com/MichellDS/BovinoPro/blob/main/Caso%20de%20Uso.png)
 - [Requisitos](https://github.com/MichellDS/BovinoPro/blob/main/Requititos.txt)
-- [Banco de Dados](https://github.com/MichellDS/BovinoPro/blob/main/Banco.txt)
+- [Banco de Dados](https://github.com/MichellDS/BovinoPro/blob/main/Banco)
 
 
 
